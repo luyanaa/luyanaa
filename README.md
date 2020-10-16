@@ -17,7 +17,8 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
  - [bf89](https://github.com/luyanaa/bf89)
  - [crispy-engima](https://github.com/luyanaa/crispy-enigma)
 
-### Interests
+### Recent Interests
  - Computational Neuroscience
  - Brain-Computer Interface 
- - And some other intersting stuffs.
+ - Python and MATLAB
+ - Signal Processing
