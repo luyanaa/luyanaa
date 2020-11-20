@@ -5,6 +5,8 @@
 I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robin is my English Name. ‘luyanaa’ is the nickname I use on many websites.   
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luyanaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luyanaa)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Education Experience
  - ( 2019 ~ ) [Tongji University, Shanghai](https://www.tongji.edu.cn/)
