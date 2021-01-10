@@ -16,10 +16,6 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
  - Have an intermediate command of C and Pascal.   
  - Expert in K-12 programming education.   
  - Have a knowledge on Algorithms and Data Structures. 
- 
-### Selected Repos
- - [bf89](https://github.com/luyanaa/bf89)
- - [crispy-engima](https://github.com/luyanaa/crispy-enigma)
 
 ### Recent Interests
  - High-Performance Computing
