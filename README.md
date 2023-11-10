@@ -8,17 +8,13 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
 
 
 ### Education Experience
- - ( 2019 ~ ) [Tongji University, Shanghai](https://www.tongji.edu.cn/)
+ - (2023 ~ ) [Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo](https://cbms.k.u-tokyo.ac.jp/)
+   - Master, [Toyoshima Lab](https://www.bs.s.u-tokyo.ac.jp/~toyoshimalab/), expected 2025. 
+ - (2019 ~ 2023) [Tongji University, Shanghai](https://www.tongji.edu.cn/)
    - Bachelor of Engineering Degree in Telecommunication Engineering, expected 2023.
 
-### Skills
- - Have an intermediate command of C and Pascal.   
- - Expert in K-12 programming education.   
- - Have a knowledge on Algorithms and Data Structures. 
-
 ### Recent Interests
- - High-Performance Computing
+ - RISC-V and High-Performance Computing
  - Computational Neuroscience
- - Brain-Computer Interface 
  - Python and MATLAB
  - Signal Processing
