@@ -8,7 +8,7 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
 
 
 ### Education Experience
- - (2023 ~ ) [Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo](https://www.cbms.k.u-tokyo.ac.jp/)
+ - (2023 ~ 2025) [Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo](https://www.cbms.k.u-tokyo.ac.jp/)
    - Master, [Toyoshima Lab](https://www.bs.s.u-tokyo.ac.jp/~toyoshimalab/), expected Sep 2025. Working in neural signal and machine learning. 
  - (2019 ~ 2023) [Tongji University, Shanghai](https://www.tongji.edu.cn/)
    - Bachelor of Engineering Degree in Telecommunication Engineering. 
