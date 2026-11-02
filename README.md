@@ -32,6 +32,7 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
  - PDKs
    - Japan: [Tokai Rika TR-1um](https://github.com/luyanaa/TR10), [OpenRule1um](https://github.com/luyanaa/OR1), [minimalfab SOI-CMOS 6um](https://github.com/luyanaa/ICPS2023_5)
    - China: [Zhejiang icsprout55](https://github.com/luyanaa/icsprout55-pdk)
+   - Europe: [IMB-CNM CNM25](https://github.com/luyanaa/CNM25)
    - ...
  - HPC
    - NVIDIA Volta/Turing: [triton 3.2.0](https://github.com/luyanaa/triton), [Flash Attention](https://github.com/luyanaa/flash-attn-triton)
