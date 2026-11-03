@@ -39,5 +39,6 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
    - MTT S80: [torch_musa](https://github.com/luyanaa/torch_musa)
    - Kunlun KL1 (K100/K200): [torch_kunlun](https://github.com/luyanaa/torch_kunlun)
    - NEC SX-Aurora TSUBASA: [neoSYCL fork](https://github.com/luyanaa/neoSYCL)
+   - PFN MN-Core 2: [llvm-mncore](https://github.com/luyanaa/llvm-mncore)
  - Misc
    - HarmonyOS: [lohg](https://github.com/luyanaa/lohg), Wayland compositor + GL ES forwarding for OpenEuler container under OpenHarmony
