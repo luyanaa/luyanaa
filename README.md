@@ -27,7 +27,7 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
    - Efforts on [magi](https://github.com/luyanaa/magi) cross-species neural foundation model.
    - Works on emotional EEG signals: [TJ-ACLAB](https://github.com/TJ-ACLAB) 
  - IP Generators
-   - [ADPLL/](https://github.com/luyanaa/adpll_gen), [SerDes](https://github.com/luyanaa/OpenSERDES), [ADC](https://github.com/luyanaa/saradc_auto), [DAC](https://github.com/luyanaa/dac-generator) and [SRAM/eDRAM](https://github.com/luyanaa/OpenRAM)
+   - [ADPLL/DLL](https://github.com/luyanaa/adpll_gen), [SerDes](https://github.com/luyanaa/OpenSERDES), [ADC](https://github.com/luyanaa/saradc_auto), [DAC](https://github.com/luyanaa/dac-generator) and [SRAM/eDRAM](https://github.com/luyanaa/OpenRAM)
    - [ALIGN porting](https://github.com/luyanaa/ALIGN-public)
  - PDKs
    - Japan: [Tokai Rika TR-1um](https://github.com/luyanaa/TR10), [OpenRule1um](https://github.com/luyanaa/OR1), [minimalfab SOI-CMOS 6um](https://github.com/luyanaa/ICPS2023_5)
