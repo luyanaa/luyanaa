@@ -28,6 +28,7 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
  - IP Generators
    - [ADPLL/DLL](https://github.com/luyanaa/adpll_gen), [SerDes](https://github.com/luyanaa/OpenSERDES), [ADC](https://github.com/luyanaa/saradc_auto), [DAC](https://github.com/luyanaa/dac-generator), [SRAM/eDRAM/ROM](https://github.com/luyanaa/OpenRAM), [SDRAM/DDR1/DDR2 PHY](https://github.com/luyanaa/ddr-phy)
    - [ALIGN porting](https://github.com/luyanaa/ALIGN-public)
+   - [OpenSPARC T1 Modern Bootstrap](https://github.com/luyanaa/t1)
  - PDKs
    - Japan: [Tokai Rika TR-1um](https://github.com/luyanaa/TR10), [OpenRule1um](https://github.com/luyanaa/OR1), [minimalfab SOI-CMOS 6um](https://github.com/luyanaa/ICPS2023_5)
    - China: [Zhejiang icsprout55](https://github.com/luyanaa/icsprout55-pdk)
@@ -35,10 +36,12 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
    - ...
  - HPC
    - NVIDIA Volta/Turing: [triton 3.2.0](https://github.com/luyanaa/triton), [Flash Attention on Triton](https://github.com/luyanaa/flash-attn-triton)
+   - AMD ROCm: [flash-attention-rocm](https://github.com/luyanaa/flash-attention-rocm), [composable_kernel](https://github.com/luyanaa/composable_kernel)
    - MTT S80: [torch_musa](https://github.com/luyanaa/torch_musa)
-   - Kunlun KL1 (K100/K200): [torch_kunlun](https://github.com/luyanaa/torch_kunlun)
+   - Kunlun KL1 (K100/K200): [torch_kunlun](https://github.com/luyanaa/torch_kunlun), [Triton KL1 branch](https://github.com/luyanaa/triton/tree/kunlun)
    - NEC SX-Aurora TSUBASA: [neoSYCL fork](https://github.com/luyanaa/neoSYCL)
    - PFN MN-Core 2: [llvm-mncore](https://github.com/luyanaa/llvm-mncore), [libmnrt](https://github.com/luyanaa/libmnrt), [triton-mncore](https://github.com/luyanaa/triton-mncore).
  - Misc
    - HarmonyOS: [lohg](https://github.com/luyanaa/lohg), Wayland compositor + GL ES forwarding for OpenEuler container under OpenHarmony
-   - LoongArch: [QEMU with LVZ and LBT support](https://github.com/luyanaa/QEMU-LVZ), [System-Level x86_64/ARM64 emulator on LoongArch](https://github.com/luyanaa/loongemu)
+   - LoongArch: [QEMU with LVZ and LBT support](https://github.com/luyanaa/QEMU-LVZ), [System-Level x86_64/ARM64/MIPS64/RISC-V emulator on LoongArch](https://github.com/luyanaa/loongemu)
+   - [ncnn powerpc, apple amx, and ps2/psp port](https://github.com/luyanaa/ncnn)
