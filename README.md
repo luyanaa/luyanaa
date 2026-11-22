@@ -28,7 +28,7 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
  - IP Generators
    - [ADPLL/DLL](https://github.com/luyanaa/adpll_gen), [SerDes](https://github.com/luyanaa/OpenSERDES), [ADC](https://github.com/luyanaa/saradc_auto), [DAC](https://github.com/luyanaa/dac-generator), [SRAM/eDRAM/ROM](https://github.com/luyanaa/OpenRAM), [SDRAM/DDR1/DDR2 PHY](https://github.com/luyanaa/ddr-phy)
    - [ALIGN porting](https://github.com/luyanaa/ALIGN-public)
-   - [OpenSPARC T1 Modern Bootstrap](https://github.com/luyanaa/t1)
+   - [OpenSPARC T1 Modern Bootstrap](https://github.com/luyanaa/t1), [IBM A2-based Core Generator](https://github.com/luyanaa/a2i)
  - PDKs
    - Japan: [Tokai Rika TR-1um](https://github.com/luyanaa/TR10), [OpenRule1um](https://github.com/luyanaa/OR1), [minimalfab SOI-CMOS 6um](https://github.com/luyanaa/ICPS2023_5)
    - China: [Zhejiang icsprout55](https://github.com/luyanaa/icsprout55-pdk)
