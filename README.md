@@ -21,6 +21,8 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
    - Previous Member of [TJ-ACLab](https://github.com/TJ-ACLAB) worked in EEG signal analysis and deep learning, also [Tongji SuperPower](https://github.com/superpower2022) and [Tongji Open Source Association](https://github.com/opentj).
 
 ### Intersting Works
+ - Math
+   - [PDE/SDE solver on Analog Circuits](https://github.com/luyanaa/solver)
  - Neuroscience
    - Improvement for [TDE-RICA](https://github.com/luyanaa/TDE-RICA), a component analysis method originally developed for C. elegans, and [gKDR-GMM](https://github.com/luyanaa/gKDR-GMM) Octave port.
    - Efforts on [glowing-journey](https://github.com/luyanaa/glowing-journey) Bayesian connectome-based C. elegans model, [magi](https://github.com/luyanaa/magi) cross-species neural foundation model.
