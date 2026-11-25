@@ -35,7 +35,8 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
    - Japan: [Tokai Rika TR-1um](https://github.com/luyanaa/TR10), [OpenRule1um](https://github.com/luyanaa/OR1), [minimalfab SOI-CMOS 6um](https://github.com/luyanaa/ICPS2023_5)
    - China: [Zhejiang icsprout55](https://github.com/luyanaa/icsprout55-pdk)
    - Europe: [IMB-CNM CNM25](https://github.com/luyanaa/CNM25)
-   - ...
+ - FPGA
+   - Xi'An Intelligence Silicon FPGAs: [xist](https://github.com/luyanaa/apicula), [nextpnr](https://github.com/luyanaa/nextpnr)
  - HPC
    - NVIDIA Volta/Turing: [triton 3.2.0](https://github.com/luyanaa/triton), [Flash Attention on Triton](https://github.com/luyanaa/flash-attn-triton)
    - AMD ROCm: [flash-attention-rocm](https://github.com/luyanaa/flash-attention-rocm), [composable_kernel](https://github.com/luyanaa/composable_kernel)
