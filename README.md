@@ -48,3 +48,4 @@ I’m known as Yan Lu (陆言), where Lu is my last name, or Robin Lu where Robi
    - HarmonyOS: [lohg](https://github.com/luyanaa/lohg), Wayland compositor + GL ES forwarding for OpenEuler container under OpenHarmony
    - LoongArch: [QEMU with LVZ and LBT support](https://github.com/luyanaa/QEMU-LVZ), [System-Level x86_64/ARM64/MIPS64/RISC-V emulator on LoongArch](https://github.com/luyanaa/loongemu)
    - [ncnn powerpc, apple amx, and ps2/psp port](https://github.com/luyanaa/ncnn)
+   - PlayStation 2: [linux-mips](https://github.com/luyanaa/linux-mips/tree/ps2-7.4-port), [xf86-video-ps2](https://github.com/luyanaa/xf86-video-ps2), [ps2gl-drm](https://github.com/luyanaa/ps2gl-drm). 
